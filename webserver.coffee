@@ -1,3 +1,4 @@
+#Initialize the nodejs server
 express = require 'express'
 app = express()
 
