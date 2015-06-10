@@ -1,4 +1,4 @@
 webapp
 ======
 
-A simple server based on node.js providing a basic REST API.
+A simple server based on Node.js (express) providing a basic REST API.
